@@ -4,7 +4,7 @@
 
 LLSE 中的 [Koishi](https://koishi.chat/) Launcher！
 
-下载插件请去 [Releases](https://github.com/lgc2333/LLSEPlugins/releases)
+下载插件请去 [Releases](https://github.com/lgc-LLSEDev/LLSEKoishi/releases)
 
 <!--
 ## 编译 & 打包
