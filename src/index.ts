@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/ban-ts-comment */
 // @ts-nocheck
 // LiteLoaderScript Dev Helper
-/// <reference path="d:\Coding\LLSEAids/dts/llaids/src/index.d.ts"/>
+/// <reference path="d:\Coding\bds\LLSEAids/dts/llaids/src/index.d.ts"/>
 
 // https://github.com/koishijs/koishi/blob/master/packages/cli/src/worker/index.ts
 
