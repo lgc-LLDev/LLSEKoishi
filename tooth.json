@@ -12,8 +12,8 @@
   },
   "placement": [
     {
-      "source": "dist/*",
-      "destination": "plugins/nodejs/llse-koishi/dist/*"
+      "source": "dist/index.js",
+      "destination": "plugins/nodejs/llse-koishi/dist/index.js"
     },
     {
       "source": "res/*",
@@ -24,8 +24,8 @@
       "destination": "plugins/nodejs/llse-koishi/package.json"
     },
     {
-      "source": "plugins/OneBotBridge/dist/*",
-      "destination": "plugins/LLSEKoishi/plugins/OneBotBridge/dist/*"
+      "source": "plugins/OneBotBridge/dist/index.js",
+      "destination": "plugins/LLSEKoishi/plugins/OneBotBridge/dist/index.js"
     },
     {
       "source": "plugins/OneBotBridge/package.json",
