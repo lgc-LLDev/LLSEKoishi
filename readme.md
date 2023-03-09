@@ -14,6 +14,10 @@ LLSE 中的 [Koishi](https://koishi.chat/) Launcher！
 - 将 `dist`、`res` 文件夹以及 `package.json` 打包成 `llplugin` 即可
 -->
 
+## 效果图
+
+![1](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/LLSEKoishi/QQ%E6%88%AA%E5%9B%BE20221212200412.png)
+
 ## 安装
 
 解压 Release 中的压缩包到服务器根目录即可

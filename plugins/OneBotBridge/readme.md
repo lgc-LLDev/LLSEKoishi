@@ -10,7 +10,6 @@
 
 ## 效果图
 
-![1](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/LLSEKoishi/OneBotBridge/QQ%E6%88%AA%E5%9B%BE20221212200412.png)  
 ![2](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/LLSEKoishi/OneBotBridge/QQ%E6%88%AA%E5%9B%BE20221212200840.png)  
 ![3](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/LLSEKoishi/OneBotBridge/Screenshot_20221212-200737.png)
 
