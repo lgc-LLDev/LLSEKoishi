@@ -16,7 +16,7 @@ LLSE 中的 [Koishi](https://koishi.chat/) Launcher！
 
 ## 效果图
 
-![1](https://media.githubusercontent.com/media/lgc-LLSEDev/readme/main/LLSEKoishi/QQ%E6%88%AA%E5%9B%BE20221212200412.png)
+![1](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/LLSEKoishi/QQ%E6%88%AA%E5%9B%BE20221212200412.png)
 
 ## 安装
 
